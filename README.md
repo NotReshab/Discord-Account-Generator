@@ -29,7 +29,7 @@ pip install selenium
 2. To run this program, you should execute this:
 
 ```
-python account_generator.py
+python main.py
 ```
 
 You have to fill in the captcha! The program is made to not do it for you.
